@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3347658278",
+    "hash" : "2190061749",
     "id" : "E2D5DEB6",
-    "lastKnownWriteTime" : 1586810980,
-    "last_content_update" : 1586810980225,
+    "lastKnownWriteTime" : 1586811459,
+    "last_content_update" : 1586811459817,
     "path" : "~/Documents/GitHub/Combs_CV/Combs_CV.Rmd",
     "project_path" : "Combs_CV.Rmd",
     "properties" : {
-        "cursorPosition" : "399,0",
-        "scrollLine" : "382"
+        "cursorPosition" : "396,31",
+        "scrollLine" : "384"
     },
     "relative_order" : 1,
     "source_on_save" : false,

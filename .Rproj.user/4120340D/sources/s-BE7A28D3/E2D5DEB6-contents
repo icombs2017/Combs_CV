@@ -19,9 +19,9 @@ cites = scholar::get_profile("BNRzfKIAAAAJ&")
 Aside
 ================================================================================
 
-![Ian Combs](/Users/iancombs/Documents/GitHub/Combs_CV/CV_pic.jpg){width=100%}
+![Ian Combs](CV_pic.jpg){width=100%}
 
-Research technician specializing in coral health and disease, coral reef ecology, and 3D photogrammetry.
+Research technician <br>specializing in coral health and disease, coral reef <br>ecology, and 3D photogrammetry.
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
@@ -29,7 +29,7 @@ Contact Info {#contact}
 - <i class="fa fa-map"></i> 5600 US1 N, Ft. Pierce, FL 34946
 - <i class="fa fa-phone"></i> +1 (301) 704-9605
 - <i class="fa fa-envelope"></i> combsi9892@gmail.com
-- <i class="fa fa-google"></i> [Ian R Combs](https://scholar.google.com/citations?user=BNRzfKIAAAAJ&){target="_blank"}  
+- <i class="fa fa-google"></i> [Ian Combs](https://scholar.google.com/citations?user=BNRzfKIAAAAJ&){target="_blank"}  
 - <i class="fa fa-github"></i> [icombs2017](https://github.com/icombs2017){target="_blank"}  
 - <i class="fa fa-twitter"></i>[Scleractinian_](https://twitter.com/Scleractinian_){target="_blank"}
 
@@ -336,7 +336,7 @@ N/A
 Skills {data-icon=toolbox}
 --------------------------------------------------------------------------------
 
-### Field research  planning, logistics, and execution
+### Field research planning, logistics, and execution
 N/A
 
 N/A
@@ -386,7 +386,7 @@ References {data-icon=user-friends}
 
 ### Dr. Joshua Voss
 
-M.Sc Advisor
+M.Sc. Advisor
 
 Florida Atlantic University
 
@@ -397,31 +397,30 @@ N/A
 - jvoss2@fau.edu
 :::
 
+
 ### Jeff Beal
 
-Assistant Professor
+Restoration Specialist
 
-Florida Fish and Wildlife Conservation Commission
+Florida Fish and Wildlife Consersvation Commission
 
 N/A
 
-::: concise
-- +1 (772) 252-2561<br>
-- Jeff.Beal@myfwc.com
-:::
+<i class="fa fa-phone"></i> +1 (772) 252-2561<br>
+<i class="fa fa-envelope"></i> jeff.beal@myfwc.com
 
-### M. Dennis Hanisak
+
+### Dr. M. Dennis Hanisak
 
 Research Professor
 
-Florida Atlantic University 
+Florida Atlantic University
 
 N/A
 
-::: concise
-- +1 (772) 242–2306<br>
-- dhanisak@fau.edu
-:::
+<i class="fa fa-phone"></i> +1 (772) 242-2306<br>
+<i class="fa fa-envelope"></i> dhanisak@fau.edu
+
 
 
 Disclaimer {#disclaimer style="width: var(--sidebar-width); padding-left: var(--sidebar-horizontal-padding)"}

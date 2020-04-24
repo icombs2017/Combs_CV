@@ -39,7 +39,7 @@ Skills {#skills}
 
 - Coral reef ecology
 - Coral health and disease
-- 100+ Scientific Dives
+- 160+ Scientific Dives
 - Multivariate data analysis
 - 3D Photogrammetry
 
@@ -153,7 +153,7 @@ Ft. Pierce, FL
 
 Marine Biodiversity
 
-### Research Based After School Program
+### Research-based After-school Program for Students
 
 Mote Marine Laboratory
 
@@ -203,6 +203,19 @@ Zooxanthellae characterization and connectivity in *Montastraea cavernosa*
 N/A
 
 2018
+
+Technical Reports {data-icon=newspaper}
+--------------------------------------------------------------------------------
+
+### Intervention and fate tracking for corals affected by stony coral tissue loss disease in the northern Florida Reef Tract
+
+Florida Department of Environmental Protection
+
+N/A
+
+2019
+
+Voss JD, Shilling E, **Combs I**
 
 
 Presentations {data-icon=comment-alt}
@@ -316,14 +329,6 @@ N/A
 Membership and Service {data-icon=id-card-alt .break-after-me}
 --------------------------------------------------------------------------------
 
-### HBOI Graduate Student Association
-
-N/A
-
-Ft. Pierce, FL
-
-2019
-
 ### Association for the Studies of Limnology and Oceanography
 
 N/A
@@ -392,7 +397,6 @@ Florida Atlantic University
 
 N/A
 
-
 <i class="fa fa-phone"></i> +1 (772) 242–2538<br>
 <i class="fa fa-envelope"></i> jvoss2@fau.edu
 
@@ -406,7 +410,7 @@ Florida Fish and Wildlife Consersvation Commission
 
 N/A
 
-<i class="fa fa-phone"></i> +1 (772) 252-2561<br>
+<i class="fa fa-phone"></i> +1 (772) 215-9217<br>
 <i class="fa fa-envelope"></i> jeff.beal@myfwc.com
 
 

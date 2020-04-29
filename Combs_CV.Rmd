@@ -51,8 +51,7 @@ Main
 Ian R. **Combs** {#title}
 --------------------------------------------------------------------------------
 
-### Coral health and disease, coral reef ecology, 3D photogrammetry
-
+### Coral reef ecology, coral health and disease 
 
 Education {data-icon=graduation-cap}
 --------------------------------------------------------------------------------
@@ -62,7 +61,7 @@ Florida Atlantic University
 
 Boca Raton, FL
 
-2017 - 2019
+2019 - 2017
 
 Thesis: Characterizing the impacts of stony coral tissue loss disease on coral in southeast Florida using 3D photogrammetry<br>
 Advisor: Dr. Joshua Voss
@@ -72,11 +71,11 @@ University of Delaware
 
 Newark, DE
 
-2010 - 2014
+2014 - 2010
 
 
 
-Research Experience {data-icon=flask, .break-after-me}
+Research Experience {data-icon=flask}
 --------------------------------------------------------------------------------
 
 ### Research Technician
@@ -85,11 +84,13 @@ FAU, Harbor Branch Oceanographic Institute
 
 Ft. Pierce, FL
 
-2019 - Present
+Present - 2019
 
 Voss Laboratory
 
 Dr. Joshua Voss
+
+Lead field research operations for local southeast Florida stony coral tissue loss disease related projects including disease monitoring, fate-tracking, disease intervention, and tissue sampling. Responsible for sample processing, data entry, data analysis, and database management of southeast Florida projects. Maintain lab and field supplies, chemical inventory, and lab equipment. Mentor interns and assist students in the lab. Assist with report and publication writing.
 
 ### Graduate Research Assistant
 
@@ -97,11 +98,13 @@ FAU, Harbor Branch Oceanographic Institute
 
 Ft. Pierce, FL
 
-2017 - 2019
+2019 - 2017
 
 Voss Laboratory
 
 Dr. Joshua Voss
+
+Executed fieldwork for southeast Florida stony coral tissue loss disease projects, collected and analyzed roving diver disease survey data, adapted and optimized 3D photogrammetry technique to assess surface area of fate-tracked coral colonies, processed and analyzed 3D photogrammetry data, intervened on diseased, fate-tracked coral colonies. Participated in 2 research cruises totalling 20+ days at sea. 
 
 ### Coral Restoration Intern
 
@@ -115,6 +118,8 @@ Elizabeth Moore International Center for Coral Reef Research & Restoration
 
 Chris Page
 
+Maintained land-based coral nursery including water quality, raceway maintinence, and microfragmentation 
+
 ### Coral Health and Disease Research Intern
 
 Mote Marine Laboratory
@@ -126,6 +131,8 @@ Sarasota, FL
 Coral Health and Disease Laboratory
 
 Dr. Erinn Muller
+
+Collected, processed, and analyzed data to better understand genotypic responses to ocean acidification and temperature in *Acropora cervicornis*
 
 ### Research Assistant 
 
@@ -139,6 +146,7 @@ Team Benthic Habitat Mapping
 
 Dr. Douglas Miller
 
+Processed over 1,000 benthic AUV photographs assessing incidental mortality of sea scallops from commercial fishing dredges 
 
 Teaching Experience {data-icon=school}
 --------------------------------------------------------------------------------
@@ -153,6 +161,8 @@ Ft. Pierce, FL
 
 Marine Biodiversity
 
+Gathered specimens, set up and tore down experiments, assisted students in the field and in the laboratory, proctored exams, graded and provided feedback on end of semester project
+
 ### Research-based After-school Program for Students
 
 Mote Marine Laboratory
@@ -161,24 +171,28 @@ Summerland Key, FL
 
 2017
 
+Assisted high school students with designing, implementing, and analyzing their own research projects
+
 ### Alumni Service Corps
 
 Gonzaga College High School
 
 Washington, D.C.
 
-2014 - 2015
+2015 - 2014
 
+Substitute taught a wide variety of classes, coached rugby and water polo, coordinated volunteering, meal preparation, and meal delivery at Gonzaga's chapter of Campus Kitchen
 
-Students and Interns Mentored {data-icon=chalkboard-teacher}
+Students and Interns Mentored and Co-supervised {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
 ### Ashley Carreiro
 **Coral Reef Health and Ecology Lab**<br>
+Determining stony coral tissue loss disease intervention success <br>on *Montastraea cavernosa* using 3D photogrammetry
 
 N/A
 
-2020 - present 
+present - 2020 
 
 ### Mckenna Rayburn
 **Link fellowship intern**<br>
@@ -187,14 +201,6 @@ Intervention methods and rate of tissue loss on stony coral tissue loss disease-
 N/A
 
 2019
-
-### Emily Chei
-**Link fellowship intern**<br>
-Assessing population connectivity of the coral *Montastraea cavernosa* along the northern Florida Reef Tract
-
-N/A
-
-2018
 
 ### Diana Perez 
 **Link fellowship intern**<br>
@@ -277,7 +283,7 @@ Corpus Christi, TX
 **Poster presentation**
 
 
-Funding {data-icon=money-bill}
+Funding {data-icon=money-bill .break-after-me}
 --------------------------------------------------------------------------------
 
 ### Indian River Lagoon Graduate Research Fellowship
@@ -286,7 +292,7 @@ $7,947
 
 N/A
 
-2018 - 2019
+2019 - 2018
 
 ### FAU GPSA Travel Awards
 
@@ -294,7 +300,7 @@ $1,600
 
 N/A
 
-2018 - 2019
+2019 - 2018
 
 Certifications {data-icon=id-card}
 --------------------------------------------------------------------------------
@@ -326,7 +332,7 @@ N/A
 
 
 
-Membership and Service {data-icon=id-card-alt .break-after-me}
+Membership and Service {data-icon=id-card-alt}
 --------------------------------------------------------------------------------
 
 ### Association for the Studies of Limnology and Oceanography
@@ -338,7 +344,7 @@ N/A
 2018
 
 
-Skills {data-icon=toolbox}
+Skills {data-icon=toolbox .break-after-me}
 --------------------------------------------------------------------------------
 
 ### Field research planning, logistics, and execution
@@ -391,7 +397,9 @@ References {data-icon=user-friends}
 
 ### Dr. Joshua Voss
 
-M.Sc. Advisor
+Associate Research Professor<br> CIOERT Executive Director<br> M.Sc. Advisor
+
+
 
 Florida Atlantic University
 
@@ -404,9 +412,9 @@ N/A
 
 ### Jeff Beal
 
-Restoration Specialist
+Marine/Estuarine Habitat Restoration Coordinator
 
-Florida Fish and Wildlife Consersvation Commission
+Florida Fish and Wildlife <br>Consersvation Commission
 
 N/A
 
@@ -416,7 +424,7 @@ N/A
 
 ### Dr. M. Dennis Hanisak
 
-Research Professor
+Research Professor<br> Director of Marine Ecosystem Health<br> Director of Education 
 
 Florida Atlantic University
 

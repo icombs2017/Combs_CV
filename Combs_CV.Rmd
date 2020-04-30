@@ -90,7 +90,7 @@ Voss Laboratory
 
 Dr. Joshua Voss
 
-Lead field research operations for local southeast Florida stony coral tissue loss disease related projects including disease monitoring, fate-tracking, disease intervention, and tissue sampling. Responsible for sample processing, data entry, data analysis, and database management of southeast Florida projects. Maintain lab and field supplies, chemical inventory, and lab equipment. Mentor interns and assist students in the lab. Assist with report and publication writing.
+Lead field research operations for local southeast Florida stony coral tissue loss disease related projects including disease monitoring, fate-tracking, disease <br>intervention, and tissue sampling. Responsible for sample processing, data <br>entry, data analysis, and database management of southeast Florida projects. Maintain lab and field supplies, chemical inventory, and lab equipment. Mentor interns and assist students in the lab. Assist with report and publication writing.
 
 ### Graduate Research Assistant
 
@@ -104,7 +104,7 @@ Voss Laboratory
 
 Dr. Joshua Voss
 
-Executed fieldwork for southeast Florida stony coral tissue loss disease projects, collected and analyzed roving diver disease survey data, adapted and optimized 3D photogrammetry technique to assess surface area of fate-tracked coral colonies, processed and analyzed 3D photogrammetry data, intervened on diseased, fate-tracked coral colonies. Participated in 2 research cruises totalling 20+ days at sea. 
+Executed fieldwork for southeast Florida stony coral tissue loss disease projects, collected and analyzed roving diver disease survey data, adapted and optimized 3D photogrammetry technique to assess surface area of fate-tracked coral colonies, processed and analyzed 3D photogrammetry data, intervened on <br>diseased, fate-tracked coral colonies. Participated in 2 research cruises totalling 20+ days at sea. 
 
 ### Coral Restoration Intern
 
@@ -118,7 +118,7 @@ Elizabeth Moore International Center for Coral Reef Research & Restoration
 
 Chris Page
 
-Maintained land-based coral nursery including water quality, raceway maintinence, and microfragmentation 
+Maintained land-based coral nursery including water quality, raceway <br>maintinence, and microfragmentation 
 
 ### Coral Health and Disease Research Intern
 
@@ -132,7 +132,7 @@ Coral Health and Disease Laboratory
 
 Dr. Erinn Muller
 
-Collected, processed, and analyzed data to better understand genotypic responses to ocean acidification and temperature in *Acropora cervicornis*
+Collected, processed, and analyzed data to better understand genotypic <br>responses to ocean acidification and temperature in *Acropora cervicornis*
 
 ### Research Assistant 
 
@@ -161,7 +161,7 @@ Ft. Pierce, FL
 
 Marine Biodiversity
 
-Gathered specimens, set up and tore down experiments, assisted students in the field and in the laboratory, proctored exams, graded and provided feedback on end of semester project
+Gathered specimens, set up experiments, assisted students in the field and in the laboratory, proctored exams, graded and provided feedback on end of <br> semester project
 
 ### Research-based After-school Program for Students
 
@@ -181,9 +181,9 @@ Washington, D.C.
 
 2015 - 2014
 
-Substitute taught a wide variety of classes, coached rugby and water polo, coordinated volunteering, meal preparation, and meal delivery at Gonzaga's chapter of Campus Kitchen
+Substitute taught a wide variety of classes, coached rugby and water polo, <br>coordinated volunteering, meal preparation, and meal delivery at Gonzaga's chapter of Campus Kitchen
 
-Students and Interns Mentored and Co-supervised {data-icon=chalkboard-teacher}
+Students and Interns Mentored <br> and Co-supervised {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
 ### Ashley Carreiro
@@ -196,7 +196,7 @@ present - 2020
 
 ### Mckenna Rayburn
 **Link fellowship intern**<br>
-Intervention methods and rate of tissue loss on stony coral tissue loss disease-affected *Montastraea cavernosa* in the Florida Reef Tract
+Intervention methods and rate of tissue loss on stony coral tissue loss <br>disease-affected *Montastraea cavernosa* in the Florida Reef Tract
 
 N/A
 
@@ -209,6 +209,20 @@ Zooxanthellae characterization and connectivity in *Montastraea cavernosa*
 N/A
 
 2018
+
+Manuscripts in Preparation {data-icon=pencil-alt}
+--------------------------------------------------------------------------------
+
+### Characterizing the impacts of stony coral tissue loss disease on corals in southeast Florida using 3D photogrammetry
+
+*PLoS* (in prep).
+
+N/A
+
+N/A
+
+**Combs IR**, Studivan MS, Voss JD
+
 
 Technical Reports {data-icon=newspaper}
 --------------------------------------------------------------------------------
@@ -224,7 +238,7 @@ N/A
 Voss JD, Shilling E, **Combs I**
 
 
-Presentations {data-icon=comment-alt}
+Presentations {data-icon=comment-alt  .break-after-me}
 --------------------------------------------------------------------------------
 
 ### Characterizing impacts of scleractinian tissue loss disease on corals in southeast Florida with photogrammetry and 3D modeling
@@ -248,7 +262,7 @@ San Juan, PR.
 **Combs IR**, Beal J, Voss JD<br>
 **Poster presentation** 
 
-### Impacts of scleractinian tissue loss disease on corals in southeast Florida
+### Impacts of scleractinian tissue loss disease on corals in <br> southeast Florida
 
 Indian River Lagoon Symposium
 
@@ -261,7 +275,7 @@ Ft. Pierce, FL.
 
 ### Understanding coral disease through 3D Modeling 
 
-HBOI Ocean Discovery Visitors Center Marine Science Fridays
+HBOI Ocean Discovery Visitors Center <br> Marine Science Fridays
 
 Ft. Pierce, FL.
 
@@ -283,7 +297,7 @@ Corpus Christi, TX
 **Poster presentation**
 
 
-Funding {data-icon=money-bill .break-after-me}
+Funding {data-icon=money-bill}
 --------------------------------------------------------------------------------
 
 ### Indian River Lagoon Graduate Research Fellowship
@@ -305,7 +319,7 @@ N/A
 Certifications {data-icon=id-card}
 --------------------------------------------------------------------------------
 
-### AAUS Scientific Diver 
+### AAUS Scientific Diver
 
 100’
 
@@ -313,6 +327,13 @@ N/A
 
 N/A
 
+### PADI Enriched Air Nitrox Certification
+
+N/A
+
+N/A
+
+N/A
 
 ### DAN Oxygen delivery, First Aid, and CPR for scuba diving injuries
 
@@ -343,8 +364,15 @@ N/A
 
 2018
 
+### Benthic Ecology Meeting Society
 
-Skills {data-icon=toolbox .break-after-me}
+N/A
+
+N/A
+
+2018
+
+Skills {data-icon=toolbox}
 --------------------------------------------------------------------------------
 
 ### Field research planning, logistics, and execution
@@ -368,7 +396,7 @@ N/A
 
 N/A
 
-### Data visualization using R statistical software
+### Data visualization using R statistical software and R Markdown
 N/A
 
 N/A
@@ -376,6 +404,20 @@ N/A
 N/A
 
 ### Multivariate statistical analyses
+N/A
+
+N/A
+
+N/A
+
+### Python {.break-after-me}
+N/A
+
+N/A
+
+N/A
+
+### Data management using GitHub
 N/A
 
 N/A
@@ -414,7 +456,7 @@ N/A
 
 Marine/Estuarine Habitat Restoration Coordinator
 
-Florida Fish and Wildlife <br>Consersvation Commission
+Florida Fish and Wildlife <br>Conservation Commission
 
 N/A
 

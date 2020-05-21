@@ -481,3 +481,5 @@ Disclaimer {#disclaimer style="width: var(--sidebar-width); padding-left: var(--
 This curriculum vitae was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
 
 Last updated on `r Sys.Date()`.
+
+

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590075743263.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "73310825",
+    "id" : "44651AD0",
+    "lastKnownWriteTime" : 1590084604,
+    "last_content_update" : 1590084604148,
+    "path" : "~/Documents/GitHub/Combs_CV/Combs_CV.Rmd",
+    "project_path" : "Combs_CV.Rmd",
+    "properties" : {
+        "cursorPosition" : "257,12",
+        "scrollLine" : "238"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

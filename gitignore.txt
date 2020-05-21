@@ -1,0 +1,9 @@
+.Rproj.user/
+*Rproj
+.Rhistory
+Combs_NPS_CV.Rmd
+Combs_NPS_CV.pdf
+Combs_NPS_CV.html
+Combs_USAJobs_CV.pdf
+CombsResume.pdf
+Untitled.Rmd

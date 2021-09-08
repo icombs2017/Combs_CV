@@ -1,0 +1,8 @@
+"0","CV %<>% print_section('award')"
+"2","argument is not an atomic vector; coercing"
+"2","argument is not an atomic vector; coercing"
+"2","Error: Must assign to rows with a valid subscript vector.
+[31mx[39m Subscript `i` can't contain `0` values.
+[34mi[39m It has a `0` value at location 1.
+[90mRun `rlang::last_error()` to see where the error occurred.[39m
+"

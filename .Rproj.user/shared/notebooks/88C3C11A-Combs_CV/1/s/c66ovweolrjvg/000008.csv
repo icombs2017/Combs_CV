@@ -1,0 +1,4 @@
+"0","CV %>% print_skill_bars()"
+"2","Error in eval(parse(text = text, keep.source = FALSE), envir) : 
+  object 'skill' not found
+"

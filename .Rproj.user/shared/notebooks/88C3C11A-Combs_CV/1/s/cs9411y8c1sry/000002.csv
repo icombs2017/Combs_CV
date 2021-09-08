@@ -1,0 +1,6 @@
+"0","if(params$pdf_mode){"
+"0","  cat("" "")"
+"0","} else {"
+"0","  cat(""[<i class='fas fa-download'></i> Donwnload CV as PDF](https://github.com/icombs2017/Combs_CV/blob/master/Combs_CV.pdf){target='_blank'}"")"
+"0","}"
+"1"," "

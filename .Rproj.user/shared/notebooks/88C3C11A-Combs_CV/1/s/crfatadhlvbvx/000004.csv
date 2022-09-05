@@ -1,4 +1,0 @@
-"0","CV %<>% print_publications('refereed_article')"
-"2","Error in print_publications(., ""refereed_article"") : 
-  could not find function ""print_publications""
-"

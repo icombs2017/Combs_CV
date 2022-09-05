@@ -38,7 +38,7 @@ Research technician <br>specializing in coral health and disease, coral reef <br
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-map"></i> 5600 US1 N, Ft. Pierce, FL 34946
+- <i class="fa fa-map"></i> 24244 Overseas Highway, Summerland Key, FL 33042
 - <i class="fa fa-phone"></i> +1 (301) 704-9605
 - <i class="fa fa-envelope"></i> combsi9892@gmail.com
 - <i class="fa fa-google"></i> [Ian Combs](https://scholar.google.com/citations?user=BNRzfKIAAAAJ&){target="_blank"}  
@@ -50,10 +50,11 @@ Skills {#skills}
 --------------------------------------------------------------------------------
 
 - Coral reef ecology
+- Large Area Imagery
 - Coral health and disease
 - 160+ Scientific Dives
 - Multivariate data analysis
-- 3D Photogrammetry
+- Structure-from-Motion Photogrammetry
 
 
 Main
@@ -98,9 +99,9 @@ Summerland Key, FL
 
 Present - 2020
 
-Dr. Erinn Muller
+Dr. Erinn Muller, Erich Bartels
 
-Spearheaded Mote Marine Laboratory's monitoring efforts through <br>Structure-from-Motion Photogrammetry and established rigorous methods for obtaining broad-scale ecological information to better inform monitoring and restoration practices. 
+Established Mote Marine Laboratory's photogrammetry program, created and optimized rigorous methods for obtaining broad-scale ecological information to better inform monitoring and restoration practices. Incorporated Structure-from-Motion photogrammetry across all scales of restoration from large-area imaging on the macro-scale (500m<sup>2</sup>) and single colony fate-tracking on the the micro-scale (100cm<sup>2</sup>).
 
 ### Research Technician
 
@@ -207,8 +208,45 @@ Washington, D.C.
 
 Substitute taught a wide variety of classes, coached rugby and water polo, <br>coordinated volunteering, meal preparation, and meal delivery at Gonzaga's chapter of Campus Kitchen
 
+
+
 Students and Interns Mentored <br> and Co-supervised {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
+
+### Kamryn Herbison
+**Mote REU Intern**
+
+N/A
+
+2022
+
+### Brooke Pohlman
+**Mote College Intern**
+
+N/A
+
+2022
+
+### Ryan Rogers
+**Mote REU Intern**
+
+N/A
+
+2021
+
+### Brielle D'Alonzo
+**Mote College Intern**
+
+N/A
+
+2021
+
+### Brianna Matthews
+**Mote College Intern**
+
+N/A
+
+2021
 
 ### Ashley Carreiro
 **Coral Reef Health and Ecology Lab**<br>
@@ -216,7 +254,7 @@ Determining stony coral tissue loss disease intervention success <br>on *Montast
 
 N/A
 
-present - 2020 
+2020 
 
 ### Mckenna Rayburn
 **Link fellowship intern**<br>
@@ -234,18 +272,28 @@ N/A
 
 2018
 
-Manuscripts in Preparation {data-icon=pencil-alt}
+Refereed Publications {data-icon=pencil-alt}
 --------------------------------------------------------------------------------
 
 ### Characterizing the impacts of stony coral tissue loss disease on corals in southeast Florida using 3D photogrammetry
 
-*PLoS* (in prep).
+*PLoS* 2021.
 
 N/A
 
 N/A
 
-**Combs IR**, Studivan MS, Voss JD
+**Combs IR**, Studivan MS, Eckert, RJ, Voss JD
+
+### Assessing the effectiveness of two intervention methods for stony coral tissue loss disease on *Montastraea cavernosa*
+
+*Scientific Reports* 2021.
+
+N/A
+
+N/A
+
+Shilling EN, **Combs IR**, Voss JD
 
 
 Technical Reports {data-icon=newspaper}
@@ -471,6 +519,37 @@ N/A
 References {data-icon=user-friends}
 --------------------------------------------------------------------------------
 
+### Dr. Erinn Muller
+
+Associate Vice President for Research<br> Program Manager for Coral Health & Disease, Coral Restoration<br> Senior Scientist<br> Supervisor
+
+
+
+Mote Marine Laboratory
+
+N/A
+
+<i class="fa fa-phone"></i> +1 (941) 388–4441 ext310<br>
+<i class="fa fa-envelope"></i> emuller@mote.org
+
+
+
+### Erich Bartels
+
+Staff Scientist<br> Program Manager Coral Reef Monitoring & Assessment<br> Supervisor
+
+
+
+Mote Marine Laboratory
+
+N/A
+
+<i class="fa fa-phone"></i> +1 (305) 395-8729<br>
+<i class="fa fa-envelope"></i> ebartels@mote.org
+
+
+
+
 ### Dr. Joshua Voss
 
 Associate Research Professor<br> CIOERT Executive Director<br> M.Sc. Advisor
@@ -485,29 +564,6 @@ N/A
 <i class="fa fa-envelope"></i> jvoss2@fau.edu
 
 
-
-### Jeff Beal
-
-Marine/Estuarine Habitat Restoration Coordinator
-
-Florida Fish and Wildlife <br>Conservation Commission
-
-N/A
-
-<i class="fa fa-phone"></i> +1 (772) 215-9217<br>
-<i class="fa fa-envelope"></i> jeff.beal@myfwc.com
-
-
-### Dr. M. Dennis Hanisak
-
-Research Professor<br> Director of Marine Ecosystem Health<br> Director of Education 
-
-Florida Atlantic University
-
-N/A
-
-<i class="fa fa-phone"></i> +1 (772) 242-2306<br>
-<i class="fa fa-envelope"></i> dhanisak@fau.edu
 
 
 

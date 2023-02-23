@@ -1,15 +1,13 @@
 ---
-title: "Ian Combs's CV"
-author: Ian Combs
+title: "Ian R. Combs's CV"
+author: Ian R. Combs
 date: "`r Sys.Date()`"
 params:
   pdf_mode:
-    value: true
-  cache_data:
-    value: true
+    value: false
 output:
   pagedown::html_resume:
-    css: ['dd_cv.css', 'resume']
+    css: ['resume_custom.css']
     self_contained: true
 ---
 
@@ -19,16 +17,21 @@ knitr::opts_chunk$set(
   echo = FALSE
 )
 
-library(magrittr) # For the pipe
-source("cv_printing_functions.r")
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load("devtools")
+devtools::install_github("mitchelloharawild/icons")
+pacman::p_load("scholar", "magrittr", "icons", "googlesheets4")
+cites = scholar::get_profile("BqAPpbIAAAAJ&")
+source("cv_printing_functions.R")
 
 # Read in all data and initialize a CV printer object
 CV <- create_CV_object(
-  data_location = "https://docs.google.com/spreadsheets/d/1Y0Fc61v4HPBSK_WnVy13X2WBBnBTpe8ZleHHIOJnaYk",
-  pdf_mode = params$pdf_mode,
-  cache_data = params$cache_data
- )
+  data_location = "https://docs.google.com/spreadsheets/d/1Y0Fc61v4HPBSK_WnVy13X2WBBnBTpe8ZleHHIOJnaYk/",  
+  pdf_mode = params$pdf_mode
+)
 
+# Download icons
+download_academicons()
 
 ```
 
@@ -48,8 +51,7 @@ if(params$pdf_mode) {
 
 Aside
 ================================================================================
-
-![Ian Combs](CV_pic.jpg){width=100%}
+![Ian Combs](cv_pic.jpg){width=100%}
 ```{r}
 CV %<>% print_text_block("intro") 
 ```
@@ -58,37 +60,41 @@ CV %<>% print_text_block("intro")
 if(params$pdf_mode){
   cat(" ")
 } else {
-  cat("[<i class='fas fa-download'></i> Donwnload CV as PDF](https://github.com/icombs2017/Combs_CV/blob/master/Combs_CV.pdf){target='_blank'}")
+  cat("[<i class='fas fa-download'></i> Download CV as PDF](https://github.com/icombs2017/Combs_CV/raw/master/Ian_R_Combs_curriculum_vitae.pdf){target='_blank'}")
 }
 ```
 
-Coral Reef Ecosystems Biologist specializing in Structure-from-Motion photogrammetry, coral restoration, and coral reef ecology.
-
-Contact Info {#contact}
+Contact {#contact}
 --------------------------------------------------------------------------------
+
 ```{r}
 CV %>% print_contact_info()
 ```
-- `r icons::academicons("google-scholar-square")` [Ian R Combs](https://scholar.google.com/citations?user=BNRzfKIAAAAJ&hl){target="_blank"}
+- `r icons::academicons("google-scholar-square")` [Ian R Combs](https://scholar.google.com/citations?user=BqAPpbIAAAAJ&){target="_blank"}
 
 Skills {#skills}
 --------------------------------------------------------------------------------
+
 ```{r}
 CV %>% print_skills()
 ```
+
+
 Language Skills {#language}
 --------------------------------------------------------------------------------
 
 ```{r} 
 CV %>% print_skill_bars()
 ```
+
+
 Main
 ================================================================================
 
 Ian R. **Combs** {#title}
 --------------------------------------------------------------------------------
 
-### Structure-from-Motion photogrammetry, large-area imagery, coral reef ecology, coral restoration ecology
+### Structure-from-Motion photogrammetry, coral restoration, coral reef ecology
 
 
 Education {data-icon=graduation-cap}
@@ -123,7 +129,7 @@ CV %<>% print_section('students_mentored')
 ```
 
 
-Refereed Publications {data-icon=newspaper}
+Refereed Publications {data-icon=newspaper .break-after-me}
 --------------------------------------------------------------------------------
 
 :::aside
@@ -136,7 +142,7 @@ Refereed Publications {data-icon=newspaper}
 - **i10-index: `r cites$i10_index`**
 :::
 ```{r}
-CV %<>% print_publications('refereed_article')
+CV %<>% print_publication('refereed_article')
 ```
 
 
@@ -172,14 +178,6 @@ CV %<>% print_section('funding')
 ```
 
 
-Awards {data-icon=award}
---------------------------------------------------------------------------------
-
-```{r}
-CV %<>% print_section('award')
-```
-
-
 Certifications {data-icon=id-card .break-before-me}
 --------------------------------------------------------------------------------
 
@@ -188,7 +186,7 @@ CV %<>% print_section('certification')
 ```
 
 
-Skills {data-icon=toolbox .break-after-me}
+Skills {data-icon=toolbox}
 --------------------------------------------------------------------------------
 
 ```{r}
@@ -196,14 +194,21 @@ CV %<>% print_section('skill')
 ```
 
 
-Membership and Service {data-icon=id-card-alt}
---------------------------------------------------------------------------------
+<!-- Awards {data-icon=award } -->
+<!-- -------------------------------------------------------------------------------- -->
 
-```{r}
-CV %<>% print_section('service')
-```
+<!-- ```{r} -->
+<!-- CV %<>% print_section('award') -->
+<!-- ``` -->
 
-<br><br>
+
+<!-- Membership and Service {data-icon=id-card-alt} -->
+<!-- -------------------------------------------------------------------------------- -->
+
+<!-- ```{r} -->
+<!-- CV %<>% print_section('service') -->
+<!-- ``` -->
+
 
 References {data-icon=user-friends}
 --------------------------------------------------------------------------------

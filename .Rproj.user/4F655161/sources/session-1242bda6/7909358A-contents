@@ -1,0 +1,11 @@
+library(datadrivencv)
+library(here)
+use_datadriven_cv(
+  full_name = "Ian Combs",
+  data_location = "https://docs.google.com/spreadsheets/d/1Y0Fc61v4HPBSK_WnVy13X2WBBnBTpe8ZleHHIOJnaYk/edit#gid=1999173464",
+  pdf_location = "https://github.com/icombs2017/Combs_CV/raw/master/combs_cv.pdf",
+  # html_location = "nickstrayer.me/cv/",
+  source_location = "https://github.com/icombs2017/Combs_CV",
+  output_dir = here(),
+  open_files = FALSE
+)

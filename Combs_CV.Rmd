@@ -21,8 +21,8 @@ if (!require("pacman")) install.packages("pacman")
 pacman::p_load("devtools")
 devtools::install_github("mitchelloharawild/icons")
 pacman::p_load("scholar", "magrittr", "icons", "googlesheets4")
-cites = scholar::get_profile("BqAPpbIAAAAJ&")
-source("cv_printing_functions.R")
+cites = scholar::get_profile("BqAPpbIAAAAJ&hl")
+source("CV_printing_functions.R")
 
 # Read in all data and initialize a CV printer object
 CV <- create_CV_object(

@@ -94,7 +94,7 @@ Main
 Ian R. **Combs** {#title}
 --------------------------------------------------------------------------------
 
-### Structure-from-Motion photogrammetry, coral restoration, coral reef ecology
+### Large Area Imaging, Structure-from-Motion photogrammetry,<br> Coral Restoration, Coral Reef Ecology
 
 
 Education {data-icon=graduation-cap}
@@ -105,7 +105,7 @@ CV %<>% print_section('education')
 ```
 
 
-Research Experience {data-icon=flask}
+Research Experience {data-icon=flask    .break-after-me}
 --------------------------------------------------------------------------------
 
 ```{r}
@@ -121,7 +121,7 @@ CV %<>% print_section('teaching_experience')
 ```
 
 
-Students Mentored {data-icon=chalkboard-teacher}
+Students Mentored {data-icon=chalkboard-teacher   .break-after-me}
 --------------------------------------------------------------------------------
 
 ```{r}
@@ -129,7 +129,7 @@ CV %<>% print_section('students_mentored')
 ```
 
 
-Refereed Publications {data-icon=newspaper .break-after-me}
+Refereed Publications {data-icon=newspaper}
 --------------------------------------------------------------------------------
 
 :::aside
@@ -178,7 +178,7 @@ CV %<>% print_section('funding')
 ```
 
 
-Certifications {data-icon=id-card .break-before-me}
+Certifications {data-icon=id-card}
 --------------------------------------------------------------------------------
 
 ```{r}

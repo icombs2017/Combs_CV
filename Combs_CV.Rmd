@@ -146,12 +146,12 @@ CV %<>% print_publication('refereed_article')
 ```
 
 
-<!-- Manuscripts in preparation {data-icon=pencil-alt} -->
-<!-- -------------------------------------------------------------------------------- -->
+Manuscripts in preparation {data-icon=pencil-alt}
+--------------------------------------------------------------------------------
 
-<!-- ```{r} -->
-<!-- CV %<>% print_publication('in_prep') -->
-<!-- ``` -->
+```{r}
+CV %<>% print_publication('in_prep')
+```
 
 
 <!-- Technical Reports {data-icon=book} -->

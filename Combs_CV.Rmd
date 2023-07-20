@@ -178,7 +178,7 @@ CV %<>% print_section('funding')
 ```
 
 
-Certifications {data-icon=id-card}
+Certifications {data-icon=id-card .break-after-me}
 --------------------------------------------------------------------------------
 
 ```{r}

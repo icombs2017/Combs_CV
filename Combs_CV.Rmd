@@ -20,7 +20,7 @@ knitr::opts_chunk$set(
 if (!require("pacman")) install.packages("pacman")
 pacman::p_load("devtools")
 devtools::install_github("mitchelloharawild/icons")
-pacman::p_load("scholar", "magrittr", "icons", "googlesheets4")
+pacman::p_load("scholar", "magrittr", "icons", "googlesheets4", force=TRUE)
 cites = scholar::get_profile("BqAPpbIAAAAJ&hl")
 source("CV_printing_functions.R")
 
@@ -146,8 +146,8 @@ CV %<>% print_publication('refereed_article')
 ```
 
 
-Manuscripts in preparation {data-icon=pencil-alt}
---------------------------------------------------------------------------------
+<!-- Manuscripts in preparation {data-icon=pencil-alt} -->
+<!-- -------------------------------------------------------------------------------- -->
 
 ```{r}
 CV %<>% print_publication('in_prep')

@@ -105,7 +105,7 @@ CV %<>% print_section('education')
 ```
 
 
-Research Experience {data-icon=flask    .break-after-me}
+Research Experience {data-icon=flask}
 --------------------------------------------------------------------------------
 
 ```{r}
@@ -121,7 +121,7 @@ CV %<>% print_section('teaching_experience')
 ```
 
 
-Students Mentored {data-icon=chalkboard-teacher   .break-after-me}
+Students Mentored {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
 ```{r}
@@ -178,7 +178,7 @@ CV %<>% print_section('funding')
 ```
 
 
-Certifications {data-icon=id-card .break-after-me}
+Certifications {data-icon=id-card}
 --------------------------------------------------------------------------------
 
 ```{r}
